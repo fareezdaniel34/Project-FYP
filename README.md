@@ -4,7 +4,7 @@ A web application for recording, managing and reporting staff activities. Staff 
 
 Built as our **Diploma in Information Technology (Digital Technology) final year project** at Politeknik Sultan Mizan Zainal Abidin, and awarded **Best FYP Project** (champion).
 
-> **Team project** by [thrashraf](https://github.com/thrashraf), [fareezdaniel34](https://github.com/fareezdaniel34) and [adzrisya](https://github.com/adzrisya).
+> **Team project** by [thrashraf](https://github.com/thrashraf)and  [fareezdaniel34](https://github.com/fareezdaniel34)
 > Original repository: [thrashraf/Project-FYP](https://github.com/thrashraf/Project-FYP)
 
 ## Features
