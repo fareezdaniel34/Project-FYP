@@ -32,5 +32,3 @@ Built as our **Diploma in Information Technology (Digital Technology) final year
 - **Homepage:** developed the homepage, including the image carousel
 - **Activity card:** designed and built the card component that displays each staff activity
 - **Teamwork:** developed features on separate branches and merged them through pull requests reviewed by the team
-
-## Project Structure
