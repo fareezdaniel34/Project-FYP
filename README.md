@@ -2,7 +2,7 @@
 
 A web system for managing and reporting staff activities, built as our **Diploma in Information Technology final year project** at Politeknik Sultan Mizan Zainal Abidin. Winner of the **Best FYP Project Award**.
 
-> Team project by [thrashraf](https://github.com/thrashraf), [adzrisya](https://github.com/adzrisya) and [fareezdaniel34](https://github.com/fareezdaniel34). Original repository: [thrashraf/Project-FYP](https://github.com/thrashraf/Project-FYP).
+> Team project by [thrashraf](https://github.com/thrashraf) and [fareezdaniel34](https://github.com/fareezdaniel34). Original repository: [thrashraf/Project-FYP](https://github.com/thrashraf/Project-FYP).
 
 ## Features
 
